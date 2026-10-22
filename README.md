@@ -49,8 +49,6 @@ I hold a Diploma in Electronics & Telecommunication Engineering from Government 
 | **Flash Detecting Device** | Detects light flashes and triggers a response | Sensors, Microcontroller |
 | **Object Following Device** | Moves to follow an object in front of it | Arduino, Sensors |
 
-> Full portfolio with project photos: _add your portfolio link here_
-
 ---
 
 ## 🎓 Education
@@ -63,8 +61,8 @@ I hold a Diploma in Electronics & Telecommunication Engineering from Government 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=munazza-hawaldar&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munazza-hawaldar&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---

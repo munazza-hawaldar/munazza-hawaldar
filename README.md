@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/munazza-hawaldar-644b0041a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:munazzahawaldar1610@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://sites.google.com/view/munazzahawaldar-portfolio/home"><img src="https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://whimsical-strudel-0f2465.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---

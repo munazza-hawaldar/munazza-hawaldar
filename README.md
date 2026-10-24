@@ -50,7 +50,7 @@ I'm **Munazza**, an Electronics & Telecommunication diploma graduate (Government
 |---|---|---|
 | [**Face Recognition System (Capstone)**](https://github.com/munazza-hawaldar/ESP32-CAM-Face-Recognition) | Detects and recognises faces from a camera module | ESP32-CAM, OpenCV |
 | [**Traffic Light Control System**](https://github.com/munazza-hawaldar/Traffic-Light-Control-System) | Automated traffic signal sequencing | Arduino, C |
-| [**Wireless Walkie-Talkie**](https://github.com/munazza-hawaldar/Wireless-Walkie-Talkie) | Two-way wireless voice communication | RF modules, electronics |
+| [**Wireless Walkie-Talkie**](https://github.com/munazza-hawaldar/Wireless-Walkie-Talkie) | Two-way wireless voice communication | Wireless module, audio electronics |
 | [**Distance Measuring Device**](https://github.com/munazza-hawaldar/Distance-Measuring-Device) | Measures and displays distance to objects | Arduino, ultrasonic sensor |
 | **Flash Detecting Device** | Detects light flashes and triggers a response | Sensors, microcontroller |
 | **Object Following Device** | Follows an object placed in front of it | Arduino, sensors |
